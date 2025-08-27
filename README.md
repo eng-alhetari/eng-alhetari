@@ -25,16 +25,15 @@
 ---
 
 ## 📈 GitHub Stats  
-![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-alhetari&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-alhetari&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/aiman-alhetari-a91bbb219)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aiman-alhetari-a91bbb219)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:alhetarya@gmail.com)  
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
-
+⭐️ From [eng-alhetari](https://github.com/eng-alhetari)
